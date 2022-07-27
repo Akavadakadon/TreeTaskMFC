@@ -36,9 +36,6 @@
     <ClInclude Include="TNode.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="testSHIT.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="MyTreeVIew.h">
       <Filter>Header Files</Filter>
     </ClInclude>

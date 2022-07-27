@@ -191,7 +191,6 @@
     <ClInclude Include="targetver.h" />
     <ClCompile Include="MyTreeVIew.cpp" />
     <ClCompile Include="TFileReader.h" />
-    <ClInclude Include="testSHIT.h" />
     <ClInclude Include="TNode.h" />
     <ClInclude Include="TreeTask.h" />
     <ClInclude Include="TreeTaskDlg.h" />
